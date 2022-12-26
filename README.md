@@ -5,8 +5,8 @@
 # RiO
 🚀 &nbsp;<b>FullStack Developer</b>&nbsp;🚀
 
-👨‍🔬 &nbsp;JavaScript&nbsp;👨‍🔬 &nbsp;ReactJs&nbsp;👨‍🔬 &nbsp;NextJS&nbsp;👨‍🔬 &nbsp;ReactNative&nbsp;👨‍🔬 &nbsp;Redux&nbsp;👨‍🔬 &nbsp;MongoDB&nbsp;👨‍🔬 &nbsp;NodeJs<br/>👨‍🔬 &nbsp;ExpressJs&nbsp;👨‍🔬 &nbsp;NestJs&nbsp;👨‍🔬 &nbsp;MySQL&nbsp;👨‍🔬 &nbsp;Html&nbsp;👨‍🔬 &nbsp;Css&nbsp;👨‍🔬 &nbsp;Bootstrap&nbsp; 👨‍🔬 &nbsp;Material UI&nbsp;<br/>👨‍🔬 &nbsp;AWS EC2&nbsp;👨‍🔬 
+👨‍🔬 &nbsp;JavaScript&nbsp;👨‍🔬 &nbsp;ReactJs&nbsp;👨‍🔬 &nbsp;NextJS&nbsp;👨‍🔬 &nbsp;ReactNative&nbsp;👨‍🔬 &nbsp;Redux&nbsp;👨‍🔬 &nbsp;MongoDB&nbsp;👨‍🔬 &nbsp;NodeJs<br/>👨‍🔬 &nbsp;ExpressJs&nbsp;👨‍🔬 &nbsp;NestJs&nbsp;👨‍🔬 &nbsp;MySQL&nbsp;👨‍🔬 &nbsp;Html&nbsp;👨‍🔬 &nbsp;Css&nbsp;👨‍🔬 &nbsp;Bootstrap&nbsp; 👨‍🔬 &nbsp;Material UI&nbsp;<br/>👨‍🔬 &nbsp;AWS EC2&nbsp;
 
 
     
-![RiO GitHub Stats](https://github-readme-stats.vercel.app/api?username=riohifi&hide=["issues"]&show_icons=true)
+![RiO GitHub Status](https://github-readme-stats.vercel.app/api?username=riohifi&hide=["issues"]&show_icons=true)
